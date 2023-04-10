@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Orientation2Lib")(type "KiCad")(uri "${KIPRJMOD}/Orientation2Lib.kicad_sym")(options "")(descr ""))
+)
